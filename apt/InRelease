@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Date: Sat, 17 Oct 2026 18:47:37 +0000
+Label: Exe Runner
+Origin: Exe Runner
+MD5Sum:
+ 1b0ced011e4070c49240a8e1de40ab28             1999 Packages
+ b7cf234257e97a2f0c0a97332041001f              809 Packages.gz
+SHA1:
+ 2b68b50b1764cb1117714993ab4ace0fdeddf2a3             1999 Packages
+ a278d7e2dd5b5f5902954b34bb0a8b92c9c1d7a7              809 Packages.gz
+SHA256:
+ d4a6bd7e623938daa3d763d70575cf318b22dd115eb1eef0c3da4c29b0ddb7bb             1999 Packages
+ 00bb6a3d3ebd48a8cdf1542641da4947d29719bddb2f49cc152cd4ec49f558da              809 Packages.gz
+SHA512:
+ 56163fafee2d572c5e6128c9b62db77fd73702a2cf7f7a0f42214daeaf66879c067a263c5db58b801b297b5b29166a425b926cea41c8859a3b83f8f5f5a7c424             1999 Packages
+ d7b5296b32f56c318e3d5903c770e9093fa7e904baebc0ed1bdbec92fce170ed1f4cf012098f11f171288245a3a02755364cbcb8623bde2039c19618749c29a9              809 Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJKBAEBCgA0FiEEBH0wTDhXoQvExjGay0sEuRWH780FAmrTwskWHHNpbW9ubGlu
+dXhjcmFmdEBwbS5tZQAKCRDLSwS5FYfvzaSIEADWVwQx292xkXYr5yQqYj9qka0N
+hOhzDbgsuviFWA7hsMab8dqIhusR0uJkRlIz2FzxUA2maGyBvidsGe4/65t23WkU
+m6K5pFbGzBdyiMcdZ7O8/ZlUa7yK2PvKc3hbA1KQalRkRlq/ljnfMK+dJ56wq3Ii
+BRkyXn4+aziM9NjdGz9TwWXMVtfuE8PYn0qlaQsa/GP3jdPcApwS+FXTWXj6Dp5B
+6sOH3akcHIRGYBetw07Zj59eBWSTVUVhR99OWXkTS2USgW6RfiG6RaewXAi6kn8y
+gLuBcdZrZS2a2Ob0K8tEwffrvSldmWR8hopuJQ6hHJciT9Ed2tSgwnpYwnXZSgo/
+9LQi02RytAuc4+K65UDkd8YnVUsgYRE4e8jIlwB5mbCskZBcK03pbC2JZhJK4UWn
+aYwwZp1ahxyYtbf/+cWnDXtRhwd63STGGHYJanP4aP99m5UPbVt3a27TGk43G4Zk
+K8hjDSpXB+jwngT3MXa2/jN2LDtNXPSauQOer5c7yowCnBcbOkdvjHabNlYVlRw0
+mM1bpVM8tL2gN7T/COwB48iqbe5GIjtlrbRThABNHaRnl3BhuCrO56ZoB1gpRbYp
+2tBE4bb5swEFXJKhyofY9bRw05Ek28PF2A8azd6RXxQQEF5ciYBiur9lyRQU1M0m
+zQVlixZBfDCna8grbg==
+=zCNk
+-----END PGP SIGNATURE-----

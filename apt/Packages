@@ -1,0 +1,36 @@
+Package: exe-runner
+Version: 0.1.7
+Architecture: amd64
+Maintainer: simonlinuxcraft <245174420+simonlinuxcraft@users.noreply.github.com>
+Installed-Size: 18366
+Depends: libc6 (>= 2.39), 7zip, python3, cabextract, unzip, wget, libglib2.0-bin, desktop-file-utils, udisks2, bubblewrap, xdg-utils, libwebkit2gtk-4.1-0, libgtk-3-0
+Recommends: podman, freerdp3-x11, gamemode
+Conflicts: ferry
+Replaces: ferry
+Filename: ./exe-runner_0.1.7_amd64.deb
+Size: 5207606
+MD5sum: f39b2886cc36d10850eaf371a9917ee4
+SHA1: 673f3994102e48ad4249753d6a5416d1ecde18ca
+SHA256: 001dfe365d67ca0fa8330cafe22baa6e81bbb5dd3490460891aceed04204512c
+Priority: optional
+Description: Run Windows programs and games on Linux
+ Ludonix reads a Windows program before it runs and picks the way: GE-Proton in a prefix of its own with the runtimes the program needs, a Windows VM for programs with drivers, or a plain explanation for games whose anti-cheat locks Linux out. Installed programs and games show up in a library and in the app menu.
+
+Package: exe-runner
+Version: 0.1.8
+Architecture: amd64
+Maintainer: simonlinuxcraft <245174420+simonlinuxcraft@users.noreply.github.com>
+Installed-Size: 18689
+Depends: libc6 (>= 2.39), 7zip, python3, cabextract, unzip, wget, libglib2.0-bin, desktop-file-utils, udisks2, bubblewrap, xdg-utils, libwebkit2gtk-4.1-0, libgtk-3-0
+Recommends: flatpak, pkexec, gamemode
+Conflicts: ferry
+Replaces: ferry
+Filename: ./exe-runner_0.1.8_amd64.deb
+Size: 5314808
+MD5sum: 14f116fe955190131c13c2917e4fd132
+SHA1: a7434c9cef09f7647ee000236ce29b52aa6599f2
+SHA256: 5ce37198d7a4198802ec9ac563b98654591df7a98f7d4d94694803102aedd69b
+Priority: optional
+Description: Run Windows programs and games on Linux
+ Ludonix reads a Windows program before it runs and picks the way: GE-Proton in a prefix of its own with the runtimes the program needs, a Windows VM for programs with drivers, or a plain explanation for games whose anti-cheat locks Linux out. Installed programs and games show up in a library and in the app menu.
+
