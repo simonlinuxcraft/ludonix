@@ -1,0 +1,35 @@
+Package: exe-runner
+Version: 0.1.11
+Architecture: all
+Maintainer: simonlinuxcraft <245174420+simonlinuxcraft@users.noreply.github.com>
+Depends: ludonix (>= 0.1.11)
+Filename: ./exe-runner_0.1.11_all.deb
+Size: 1112
+MD5sum: e4bd780e68e471d689457c0df8d9a37d
+SHA1: e8864314ae857dea22412546d79a3771e4c8b753
+SHA256: 49c4b155b1ebc158de5d62267ebed38c7dfcfc5337f879fbe3aaeb2ca086ec8f
+Section: oldlibs
+Priority: optional
+Description: transitional package for Ludonix
+ Exe Runner is now called Ludonix. This package only brings in ludonix and
+ can be removed.
+
+Package: ludonix
+Version: 0.1.11
+Architecture: amd64
+Maintainer: simonlinuxcraft <245174420+simonlinuxcraft@users.noreply.github.com>
+Installed-Size: 19120
+Depends: libc6 (>= 2.39), 7zip, python3, cabextract, unzip, wget, libglib2.0-bin, desktop-file-utils, udisks2, bubblewrap, xdg-utils, libwebkit2gtk-4.1-0, libgtk-3-0
+Recommends: flatpak, pkexec, gamemode
+Conflicts: ferry
+Breaks: exe-runner (<< 0.1.11)
+Replaces: ferry, exe-runner (<< 0.1.11)
+Filename: ./ludonix_0.1.11_amd64.deb
+Size: 5434402
+MD5sum: c076b5e9301bd48ea17f97483f8c7a27
+SHA1: 0af7039fbcf27a9b0031adb9ea5e21b19804d16b
+SHA256: e1eddd1a7f4d825f94fe309f9f45b3ef4928f3ec2fa384b5a5a8707cfea78426
+Priority: optional
+Description: Run Windows programs and games on Linux
+ Ludonix reads a Windows program before it runs and picks the way: GE-Proton in a prefix of its own with the runtimes the program needs, a Windows VM for programs with drivers, or a plain explanation for games whose anti-cheat locks Linux out. Installed programs and games show up in a library and in the app menu.
+
