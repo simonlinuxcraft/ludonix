@@ -1,0 +1,16 @@
+Architectures: amd64
+Date: Fri, 20 Nov 2026 12:15:14 +0000
+Label: Exe Runner
+Origin: Exe Runner
+MD5Sum:
+ 263d7ea6b6523e79c017eb953c84a859             3693 Packages
+ 76015eef92a5cc7190a8f9aa09d9bf98             1144 Packages.gz
+SHA1:
+ 6384900a7eed296cc30fa0ea54ca78bf9aaf27dc             3693 Packages
+ 9fa8760aa870f0b134e5dcfca5b381b46bf45605             1144 Packages.gz
+SHA256:
+ b5770eeb80648d4726e1ffc88af16fecdd3ea0d8646653a83efe86b6f7ef116a             3693 Packages
+ 39da2192b96109a671558e7aa33e8a10a2f440f985850f5f6a2b872ad10e1576             1144 Packages.gz
+SHA512:
+ 305c0af50a92da031cf58f7594e7c18ae79c3d0f8c8da89528d0f3734238268ca3e1a2352dda46d3f73bf9e61cf5fb99f39044017e1ad0fa506898971d04b83a             3693 Packages
+ 10c9568489aa06730660b7fbbdded9ca83203016e144aa8f121e9e1a0609bba903cfa62da039c381afe73f024c7b49deff1a97b1e18904651bb8fc448cc449fb             1144 Packages.gz
